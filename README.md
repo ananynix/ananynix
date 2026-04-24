@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=250&section=header&text=ARADHY_SRIVASTAVA&fontSize=60&animation=fadeIn&fontAlignY=38&desc=SYSTEMS_ARCHITECT%20//%20AI_OPERATIVE&descAlignY=55&descAlign=50&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bc3fde&background=edcbf6&size=28&center=true&vCenter=true&width=800&height=250&lines=ARADHY_SRIVASTAVA;SYSTEMS_ARCHITECT+//+AI_OPERATIVE" />
 </div>
 
 ## 🛰️ `> MISSION_LOG.exe`
