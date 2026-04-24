@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bc3fde&background=edcbf6&size=28&center=true&vCenter=true&width=800&height=250&lines=ARADHY_SRIVASTAVA;SYSTEMS_ARCHITECT+//+AI_OPERATIVE" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bc3fde&background=edcbf6&size=22&center=true&vCenter=true&width=1000&height=250&lines=ARADHY_SRIVASTAVA;SYSTEMS_ARCHITECT+//+AI_OPERATIVE" />
 </div>
 
 ## 🛰️ `> MISSION_LOG.exe`
